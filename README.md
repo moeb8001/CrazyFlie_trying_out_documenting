@@ -36,9 +36,30 @@ This section will be continuously updated to track the progress of our project. 
 ### Milestone 2 (Ongoing)
 
 - Begin gathering data on voice commands and their corresponding actions to fine-tune the recognition system.
+![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/da020335-0e3f-44db-ab8c-1f7a23bcb364)
 
 
 https://github.com/moeb8001/CrazyFlie/assets/112695184/9ae53417-ec7c-4116-a67a-797fe14547d5
+
+Then found Suryansh open source gimbal: https://github.com/tristandijkstra/OpenGimbal
+
+The center part obviously had only two arms, in order to prevent creating extra moment of inertia. This is something we did not have to worry about because we just want to have a ** stable + consistent + not moving ** base for recording audio. So I went ahead and made it 4 armed for more stability. 
+
+What I did:
+- Made the center hole bigger because the pins didn't fit as shown below:
+  ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/1be08550-6419-486f-94ee-87243b2d09b2)
+- Made it 4 armed.
+
+  Here are the after pics:
+  ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/62403e71-4ffe-4515-b862-5a130ba92833)
+  ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/702564a2-c772-4e69-85d4-195637d41b12)
+  Now even the charger fits below: ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/d05576d9-b09d-4b7f-b78f-40a8ffadde4f)
+
+
+
+
+
+
 
 
 ### Milestone 2 (Date TBD)
