@@ -16,49 +16,41 @@ Welcome to the repository for our project focused on using voice commands to con
 To replicate or contribute to this project, follow the instructions below:
  ** Will upload files soon as we make more progress **
 
-### Prerequisites
 
-- (List any prerequisites, including hardware and software requirements)
 
 ### Installation
 
-- (Provide installation instructions, e.g., how to set up the development environment, dependencies, etc.)
+- NA
 
-## Usage
-
-- (Explain how to use the code and how to interact with the project)
 
 ## Progress
 
 This section will be continuously updated to track the progress of our project. Below are key milestones and updates:
 
-### Milestone 1 (Date)
+### Milestone 1 (Done - kinda)
 
-- (Description of the milestone achieved in this step)
+- Set up the development environment, including the XIAO ESP32S3 board, microphone, and Crazyflie drone.
 
-### Milestone 2 (Date)
+ 
 
-- (Description of the next milestone achieved)
+### Milestone 2 (Ongoing)
 
-(Repeat the pattern for additional milestones)
+- Begin gathering data on voice commands and their corresponding actions to fine-tune the recognition system.
+
+
+https://github.com/moeb8001/CrazyFlie/assets/112695184/9ae53417-ec7c-4116-a67a-797fe14547d5
+
+
+### Milestone 2 (Date TBD)
+
+- Integrate the voice control system with the Crazyflie platform for smooth, real-time drone operation.
 
 ## Future Work
 
 Our project is an ongoing effort, and there are several directions we plan to explore in the future:
 
-- (List potential future features or improvements)
+- (List potential future features or improvements )
 
-## Contributing
-
-We welcome contributions and collaboration from the open-source community. If you'd like to contribute, please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
-
-## License
-
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- (Optional: Acknowledge individuals, organizations, or projects that have been instrumental in the development of this project)
 
 ## Contact
 
