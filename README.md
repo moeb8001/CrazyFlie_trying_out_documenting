@@ -36,6 +36,10 @@ This section will be continuously updated to track the progress of our project. 
 ### Milestone 2 (Ongoing)
 
 - Begin gathering data on voice commands and their corresponding actions to fine-tune the recognition system.
+- ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/ab41819b-646a-4891-ac35-3ae571e224a9)
+- connected the XIAO ESP32S3 board for recording (trying out):
+![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/25368eb6-c401-4f35-b922-67f437a07fb9)
+
 ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/da020335-0e3f-44db-ab8c-1f7a23bcb364)
 
 
@@ -55,6 +59,7 @@ What I did:
   ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/702564a2-c772-4e69-85d4-195637d41b12)
   Now even the charger fits below: ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/d05576d9-b09d-4b7f-b78f-40a8ffadde4f)
 
+![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/ac88b455-bf87-4fc4-84cc-a577ce33d4ea)
 
 
 
