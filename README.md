@@ -42,8 +42,6 @@ This section will be continuously updated to track the progress of our project. 
 ![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/44dbefdb-9e26-4da4-a5e4-89b0b8611428)
 
 
-![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/da020335-0e3f-44db-ab8c-1f7a23bcb364)
-
 
 ![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/2e97b161-9a2e-430a-be3c-7ee687bf6502)
 
