@@ -58,7 +58,8 @@ The center part obviously had only two arms, in order to prevent creating extra 
 
 What I did:
 - Made the center hole bigger because the pins didn't fit as shown below:
-  ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/1be08550-6419-486f-94ee-87243b2d09b2)
+  ![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/9f212b08-3437-4581-8369-61fcd9fcd6d6)
+
 - Made it 4 armed.
 
   Here are the after pics:
