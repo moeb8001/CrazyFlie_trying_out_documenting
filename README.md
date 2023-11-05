@@ -45,6 +45,11 @@ This section will be continuously updated to track the progress of our project. 
 
 https://github.com/moeb8001/CrazyFlie/assets/112695184/9ae53417-ec7c-4116-a67a-797fe14547d5
 
+
+https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/8c094195-ea22-49e6-a2b5-c74b00f21216
+
+
+
 Then found Suryansh open source gimbal CAD files: https://github.com/tristandijkstra/OpenGimbal
 
 The center part obviously had only two arms, in order to prevent creating extra moment of inertia. This is something we did not have to worry about because we just want to have a ** stable + consistent + not moving ** base for recording audio. So I went ahead and made it 4 armed for more stability. 
