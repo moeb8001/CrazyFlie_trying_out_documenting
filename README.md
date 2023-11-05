@@ -36,14 +36,16 @@ This section will be continuously updated to track the progress of our project. 
 ### Milestone 2 (Ongoing)
 
 - Begin gathering data on voice commands and their corresponding actions to fine-tune the recognition system.
-- ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/ab41819b-646a-4891-ac35-3ae571e224a9)
+
 - connected the XIAO ESP32S3 board for recording (trying out):
-![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/25368eb6-c401-4f35-b922-67f437a07fb9)
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/a59fde60-ebc9-4d8f-8801-0f8f483d0bca)
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/44dbefdb-9e26-4da4-a5e4-89b0b8611428)
+
 
 ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/da020335-0e3f-44db-ab8c-1f7a23bcb364)
 
 
-https://github.com/moeb8001/CrazyFlie/assets/112695184/9ae53417-ec7c-4116-a67a-797fe14547d5
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/2e97b161-9a2e-430a-be3c-7ee687bf6502)
 
 
 https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/8c094195-ea22-49e6-a2b5-c74b00f21216
@@ -60,11 +62,16 @@ What I did:
 - Made it 4 armed.
 
   Here are the after pics:
-  ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/62403e71-4ffe-4515-b862-5a130ba92833)
-  ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/702564a2-c772-4e69-85d4-195637d41b12)
-  Now even the charger fits below: ![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/d05576d9-b09d-4b7f-b78f-40a8ffadde4f)
+  ![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/95967fae-9cdc-403b-8852-b1f8988515f7)
 
-![image](https://github.com/moeb8001/CrazyFlie/assets/112695184/ac88b455-bf87-4fc4-84cc-a577ce33d4ea)
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/aebe1011-f102-497f-8fda-d8b6f4c99850)
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/f36469e9-d113-40ec-bdc3-58685ecf9b83)
+
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/3a7ee511-7f85-4b6f-9ade-bc0c9ca276c1)
+
+
+  Now even the charger fits below:![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/4ccfcf03-45f1-4857-a08b-a3644dc2571a)
+
 
 
 
