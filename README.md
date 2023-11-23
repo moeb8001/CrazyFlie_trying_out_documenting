@@ -81,6 +81,7 @@ What I did:
 ### Milestone 2 (Date TBD)
 
 - Integrate the voice control system with the Crazyflie platform for smooth, real-time drone operation.
+- We used **https://edgeimpulse.com/** for deploying the trained keyword recoginition model onto ESP32S3.
 
 ## Future Work
 
