@@ -74,6 +74,8 @@ What I did:
 
 
 
+Also tried resin printing the propellers (more smooth surface):
+![image](https://github.com/moeb8001/CrazyFlie_trying_out_documenting/assets/112695184/e7147355-4f5f-42f5-b78d-58fddcd50860)
 
 
 
