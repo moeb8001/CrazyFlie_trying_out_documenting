@@ -1,4 +1,4 @@
-# CrazyFlie
+# CrazyFlie [Will not be updated anymore due to privacy reasons]
 Documenting the progress.
 
 # Voice-Controlled Drones with Crazyflie and XIAO ESP32S3
